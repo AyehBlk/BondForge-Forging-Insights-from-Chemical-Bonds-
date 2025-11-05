@@ -65,7 +65,7 @@ Born from the intersection of structural biology and computational analysis, Bon
 
 ```bash
 # Clone BondForge
-git clone https://github.com/yourusername/BondForge.git
+git clone https://github.com/AyehBlk/BondForge.git
 cd BondForge
 
 # Install dependencies
