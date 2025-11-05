@@ -346,9 +346,9 @@ See [LICENSE](LICENSE) for details.
 [![GitHub stars]([https://img.shields.io/github/stars/AyehBlk/BondForge?style=social)](https://github.com/AyehBlk/BondForge-Forging-Insights-from-Chemical-Bonds-)]
 [![LinkedIn Follow](https://www.linkedin.com/in/ayehbolouki/)]
 
-"Need help with your analysis? Contact me for consulting: ayehbolouki1988@gmail.com or ayehgeek@gmail.com"
+Need help with your analysis? Contact me for consulting: ayehbolouki1988@gmail.com or ayehgeek@gmail.com
 
-"Need a custom feature? I can add it! Contact: ayehbolouki1988@gmail.com or ayehgeek@gmail.com"
+Need a custom feature? I can add it! Contact: ayehbolouki1988@gmail.com or ayehgeek@gmail.com
 ---
 
 **Made with 🔥 by the structural biology community, for the community**
