@@ -3,7 +3,7 @@
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 1. [Overview of All Interactions](#overview)
 2. [Van der Waals Interactions](#van-der-waals)
