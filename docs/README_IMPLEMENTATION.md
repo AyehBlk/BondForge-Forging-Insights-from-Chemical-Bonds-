@@ -1,10 +1,10 @@
 # Protein Interaction Analysis Software - Implementation Guide
 
-## 📋 Overview
+##  Overview
 
 This package provides complete algorithms and implementation for detecting and analyzing chemical interactions in protein structures, specifically designed for biologists to use through a GUI application.
 
-## 🎯 Features
+##  Features
 
 ### Core Analysis Capabilities
 1. **Intra-Protein Interaction Detection**
@@ -40,7 +40,7 @@ This package provides complete algorithms and implementation for detecting and a
    - Stability prediction
    - Functional importance assessment
 
-## 📁 File Structure
+##  File Structure
 
 ```
 your_project/
@@ -67,7 +67,7 @@ your_project/
     └── test_analyzer.py
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Installation
 
@@ -118,7 +118,7 @@ critical = analyzer.critical_interactions
 stats = analyzer.get_statistics()
 ```
 
-## 🔧 Integration with Your GUI
+##  Integration with Your GUI
 
 ### Step 1: Import the Modules
 
@@ -319,7 +319,7 @@ export_plots_action.triggered.connect(self.export_visualizations)
 export_menu.addAction(export_plots_action)
 ```
 
-## 📊 Customization Options
+##  Customization Options
 
 ### Adjust Distance Cutoffs
 
@@ -378,7 +378,7 @@ visualizer.plot_interaction_network(top_n=100)
 visualizer.plot_hub_analysis(top_n=20)
 ```
 
-## 🧪 Testing
+##  Testing
 
 ### Test with Known Structures
 
@@ -410,7 +410,7 @@ def test_analyzer(pdb_code, expected):
     print(f"✓ {pdb_code} test passed!")
 ```
 
-## 🔍 Advanced Features
+##  Advanced Features
 
 ### 1. Protein-Protein Interface Analysis
 
@@ -496,7 +496,7 @@ analyzer.analyze_all()
 export_pymol_script(analyzer)
 ```
 
-## 📈 Performance Optimization
+##  Performance Optimization
 
 ### For Large Proteins
 
@@ -530,7 +530,7 @@ with Pool(processes=4) as pool:
     results = pool.map(analyze_residue_pair, residue_pairs)
 ```
 
-## 📝 Best Practices
+##  Best Practices
 
 1. **Always validate with known structures first**
    - Test with well-studied protein complexes
@@ -552,7 +552,7 @@ with Pool(processes=4) as pool:
    - Integrate with mutagenesis data
    - Correlate with binding assays
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -581,7 +581,7 @@ with Pool(processes=4) as pool:
 2. Review example code in test files
 3. Inspect intermediate results with debugging
 
-## 📚 References
+##  References
 
 ### Algorithms Based On
 
@@ -597,7 +597,7 @@ with Pool(processes=4) as pool:
 - "Structural Bioinformatics" - Bourne & Gu (Eds.)
 - "Networks in Molecular Biology" - Barabási & Oltvai
 
-## 🎓 Example Research Applications
+##  Example Research Applications
 
 1. **Drug Discovery**
    - Identify binding hotspots
@@ -614,7 +614,7 @@ with Pool(processes=4) as pool:
    - Understand structural effects
    - Design therapeutic interventions
 
-## 📧 Support
+##  Support
 
 For questions or issues:
 1. Check documentation first
@@ -622,7 +622,7 @@ For questions or issues:
 3. Test with known structures
 4. Contact developer team
 
-## 🔄 Version History
+##  Version History
 
 - v1.0.0 - Initial release
   - Complete interaction detection algorithms
@@ -630,7 +630,7 @@ For questions or issues:
   - Comprehensive visualization suite
   - GUI integration support
 
-## 📄 License
+##  License
 
 This software is provided for research and educational purposes.
 See LICENSE file for details.
