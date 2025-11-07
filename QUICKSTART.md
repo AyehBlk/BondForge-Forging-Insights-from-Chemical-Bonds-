@@ -168,8 +168,8 @@ h_bonds = analyzer.find_hydrogen_bonds(distance_cutoff=4.0)
 
 - **Documentation**: See `docs/` folder
 - **Examples**: Check `examples/` folder  
-- **Issues**: [Open an issue](https://github.com/AyehBlk/protein-interaction-analyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/AyehBlk/protein-interaction-analyzer/discussions)
+- **Issues**: [Open an issue](https://github.com/AyehBlk/bondforge/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/AyehBlk/bondforge/discussions)
 
 ## Quick Reference
 
