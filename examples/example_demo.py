@@ -31,7 +31,7 @@ def run_demo(pdb_file):
     """
     
     print("="*70)
-    print("🔥 BONDFORGE - BASIC DEMO")
+    print(" BONDFORGE - BASIC DEMO")
     print("Forging Insights from Chemical Bonds")
     print("="*70)
     print(f"\nAnalyzing: {pdb_file}\n")
@@ -59,7 +59,7 @@ def run_demo(pdb_file):
     print("="*70)
     
     # Show top hydrogen bonds
-    print("\n📊 Top 5 Hydrogen Bonds:")
+    print("\n Top 5 Hydrogen Bonds:")
     hbonds = [i for i in analyzer.interactions if i.type == 'hydrogen_bond']
     hbonds_sorted = sorted(hbonds, key=lambda x: x.strength if x.strength else 0, reverse=True)
     
@@ -71,7 +71,7 @@ def run_demo(pdb_file):
     
     # Show hub residues
     if analyzer.hubs:
-        print("\n🎯 Top 5 Hub Residues:")
+        print("\n Top 5 Hub Residues:")
         for i, hub in enumerate(analyzer.hubs[:5], 1):
             res = f"{hub.residue_id[2]}{hub.residue_id[1]}"
             print(f"  {i}. {res}")
@@ -80,7 +80,7 @@ def run_demo(pdb_file):
     
     # Show critical interactions
     if analyzer.critical_interactions:
-        print("\n⚡ Top 5 Critical Interactions:")
+        print("\n Top 5 Critical Interactions:")
         for i, critical in enumerate(analyzer.critical_interactions[:5], 1):
             interaction = critical['interaction']
             res1 = f"{interaction.residue1_id[2]}{interaction.residue1_id[1]}"
