@@ -9,7 +9,7 @@ Creates publication-ready figures, network graphs, and 3D visualizations.
 
 Part of BondForge: Comprehensive protein interaction analysis toolkit
 
-Author: Your Name
+Author: Ayeh Bolouki
 Date: 2025
 """
 
