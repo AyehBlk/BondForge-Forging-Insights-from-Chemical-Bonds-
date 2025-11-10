@@ -9,7 +9,7 @@ This module implements the core algorithms for detecting and analyzing
 
 Part of BondForge: Comprehensive protein interaction analysis toolkit
 
-Author: Your Name
+Author: Ayeh Bolouki
 Date: 2025
 """
 
