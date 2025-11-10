@@ -11,7 +11,7 @@ This example demonstrates how to use both BondForge analyzers:
 
 Shows the full power of BondForge for protein interaction analysis.
 
-Author: BondForge Team
+Author: Ayeh Bolouki
 Date: 2025-11-05
 """
 
