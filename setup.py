@@ -19,8 +19,8 @@ with open(os.path.join(this_directory, 'requirements.txt'), encoding='utf-8') as
 setup(
     name='bondforge',
     version='1.0.0',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Ayeh Bolouki',
+    author_email='ayehbolouki1988@gmail.com',
     description='BondForge: Forge insights from 20 types of chemical bonds. Comprehensive protein interaction analysis toolkit.',
     long_description=long_description,
     long_description_content_type='text/markdown',
