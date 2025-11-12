@@ -24,7 +24,7 @@ Extended Interactions (13):
 
 Part of BondForge: The comprehensive protein interaction analysis toolkit
 
-Author: Your Name
+Author: Ayeh Bolouki
 Date: 2025
 """
 
